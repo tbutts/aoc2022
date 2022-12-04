@@ -1,3 +1,4 @@
 target/
+__pycache__/
 *.swp
 *.mp3.co.xz.test.jpeg.7z.gov.io
